@@ -6,7 +6,7 @@ description: Descubra você mesmo.
 
 #### Não tenho nenhuma experiência com programação
 
-Não tem problema, tendo uma boa base de lógica de programação e orientação à objetos, será fácil dar os primeitos passos. Dart e Flutter possuem excelentes documentações, comunidade receptiva e vários materiais para ir do básico ao avançado, sem dor de cabeça. 
+Não tem problema, tendo uma boa base de lógica de programação e orientação à objetos, será fácil dar os primeiros passos. Dart e Flutter possuem excelentes documentações, comunidade receptiva e vários materiais para ir do básico ao avançado, sem dor de cabeça. 
 
 À medida que iremos avançando com o conteúdo, abordaremos o necessário da linguagem Dart para aquele ponto.
 
