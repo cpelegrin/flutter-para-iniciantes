@@ -46,7 +46,7 @@ Escolher a solução ideal para o seu projeto é fundamental para um bom ciclo d
 À seguir, apresento algumas algumas soluções para gerenciamento de estado e ao final um compilado sobre qual solução pode ser a mais indicada para o seu projeto.
 
 {% hint style="danger" %}
-Não pense que há "**a melhor soluçao**", ou a solução para **todos** os problemas. Cada uma delas tem seus pontos positivos e negativos. 
+Não pense que há "**a melhor solução**", ou a solução para **todos** os problemas. Cada uma delas tem seus pontos positivos e negativos. 
 {% endhint %}
 
 
